@@ -1,0 +1,21 @@
+{
+  "name": "Psion-UI-theme-default",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.css",
+  "scripts": {
+    "dev": "gulp build && gulp watch",
+    "build": "gulp build"
+  },
+  "keywords": [
+  ],
+  "author": "Jomsou",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-postcss": "^6.1.1",
+    "postcss-salad": "^1.0.5"
+  },
+  "dependencies": {}
+}
